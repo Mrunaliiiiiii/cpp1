@@ -19,8 +19,8 @@ class Employee {
         }    
 };  
 int main(void) {  
-    Employee e1 =Employee(101, "DEEPAK", 1000000);   
-    Employee e2=Employee(102, "MIKEY", 69);   
+    Employee e1 =Employee(101, "Tanu", 1000000);   
+    Employee e2=Employee(102, "Manu", 69);   
     e1.display();    
     
     cout<<&e1<<endl;
