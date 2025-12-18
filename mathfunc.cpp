@@ -3,9 +3,9 @@
 using namespace std;  
 int main()  
 {  
-int base=9;  
-int exponent=4;  
+int base=3;  
+int exponent=2;  
 int power=pow(base,exponent);  
 std::cout << "Power of a given number is :" <<power;  
 return 0;  
-} 
+}   
